@@ -1,4 +1,7 @@
-  
+=============================================================================
+UPDATE: This driver is for the Exar cable which shows up as 'ttyUSB0.' 
+The stock Epever rs485 cables will show up as 'ttyACM0' in Debian 13/Trixie.  
+=============================================================================
 
 This driver is derived from code found online in a linux source archive.
 The driver works with Epever Triron 4210n. The Tracer series may also work.
